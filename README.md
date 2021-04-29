@@ -7,3 +7,4 @@ SkrzkBlogArchive
 [リンク](https://re-fort.net/SkrzkBlogArchive/#/)
 
 ## 保管メンバー
+* 松平璃子
