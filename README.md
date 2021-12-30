@@ -8,3 +8,4 @@ SkrzkBlogArchive
 
 ## 保管メンバー
 * 松平璃子
+* 守屋茜
